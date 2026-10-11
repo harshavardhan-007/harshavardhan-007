@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Harshavardhan and I'm a Mern Stack Developer, from India</h1>
+<h1 align="left">Hi 👋! My name is Harshavardhan and I'm a Software Developer, from India</h1>
 
 ###
 
