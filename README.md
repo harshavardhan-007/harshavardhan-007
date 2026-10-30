@@ -30,11 +30,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="38" height="38" alt="MATLAB"/>
 </p>
 
-### 📌 Featured Projects
-
-- **[Verilog Code Generator](https://harshavardhan-007.github.io/verilog-code/)** — A tool for generating Verilog code.
-- **[Cancer Prediction ML](https://github.com/harshavardhan-007/cancer-prediction-ml)** — A machine learning project for cancer prediction.
-
 ### 📊 GitHub Stats
 
 <p align="center">
