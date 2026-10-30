@@ -9,7 +9,7 @@
 ### About Me
 
 
-<h3 align="left">About Me</h3>
+
 
 <table>
 <tr>
