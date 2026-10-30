@@ -1,9 +1,10 @@
 
-<h1 align="left">Hi 👋, I'm Harshavardhan</h1>
+<h1 align="center">Hey 👋, I'm Harshavardhan</h1>
+<h3 align="center">ECE student by degree, developer by curiosity.</h3>
 
-<h3 align="left">Electronics and Communication Engineering Student | Software Developer</h3>
-
-I'm interested in software development, embedded systems, electronics, and low-level computing.
+<p align="center">
+  I like building things, breaking them down, and understanding what makes them work — from software and backend systems to electronics and low-level computing.
+</p>
 
 ### About Me
 
