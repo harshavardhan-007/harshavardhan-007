@@ -1,41 +1,47 @@
 
-<h1 align="center">Hi 👋, I'm Harshavardhan</h1>
+<h1 align="left">Hi 👋, I'm Harshavardhan</h1>
 
-<h3 align="center">ECE Student | Software Developer</h3>
+<h3 align="left">Electronics and Communication Engineering Student | Software Developer</h3>
 
-<p align="center">
-  Interested in software development, embedded systems, electronics, and building practical projects.
-</p>
+I'm interested in software development, embedded systems, electronics, and low-level computing.
+
+### About Me
+
+- 🌱 I'm currently learning **C++, Data Structures and Algorithms, and Backend Development**
+- 💬 Ask me about **C, C++, Python, JavaScript, Embedded Systems, Verilog, and MATLAB**
+- 👨‍💻 All of my repositories are available on [GitHub](https://github.com/harshavardhan-007)
+- 📫 Reach me through [GitHub](https://github.com/harshavardhan-007)
+- ⚡ Fun fact: I enjoy understanding how technology works under the hood.
 
 ---
 
-### 🌱 Currently Learning
-- C and C++
-- Data Structures and Algorithms
-- Backend Development
-- Embedded Systems
+### 💻 Tech Stack
 
-### 💻 Languages and Tools
+**Programming Languages**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="38" height="38" alt="C"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="38" height="38" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="38" height="38" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="38" height="38" alt="JavaScript"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="38" height="38" alt="React"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="38" height="38" alt="Node.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="38" height="38" alt="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="38" height="38" alt="Linux"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" width="38" height="38" alt="Arduino"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="38" height="38" alt="MATLAB"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript" alt="Programming Languages"/>
 </p>
 
-### 📊 GitHub Stats
+**Web Development**
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshavardhan-007&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshavardhan-007&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,mysql,tailwind" alt="Web Development"/>
 </p>
+
+**Tools and Platforms**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,bash,postman,vscode" alt="Tools and Platforms"/>
+</p>
+
+**Embedded Systems and Electronics**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,matlab" alt="Embedded Systems and Electronics"/>
+</p>
+
+---
 
 ### 🤝 Connect With Me
 
@@ -43,4 +49,5 @@
   <a href="https://github.com/harshavardhan-007">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  <!-- Add your LinkedIn profile link here -->
 </p>
